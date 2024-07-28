@@ -1,0 +1,82 @@
+{
+  "SEND_CORE": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Команда <color:#e32417>/{command}</color> была отправлена на координатор</white>"
+  },
+  "MODULE_NO_FOUND": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Данный модуль не подключен!</white>"
+  },
+  "MODULE_FILE_NO_FOUND": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Файл <color:#e32417>{file}</color> не существует в директории модулей!</white>"
+  },
+  "MODULE_FORMAT": {
+    "ru": [
+      "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Помощь по командам</white>",
+      "<white>Включить модуль <dark_gray>-</dark_gray> <color:#e32417>/module enable <название></color></white>",
+      "<white>Выключить модуль <dark_gray>-</dark_gray> <color:#e32417>/module disable <название></color></white>",
+      "<white>Перезагрузить модуль <dark_gray>-</dark_gray> <color:#e32417>/module reload <название/*></color></white>",
+      "<white>Загрузить модуль <dark_gray>-</dark_gray> <color:#e32417>/module load <название></color></white>",
+      "<white>Выгрузить модуль <dark_gray>-</dark_gray> <color:#e32417>/module unload <название></color></white>",
+      "<white>Информация о модуле <dark_gray>-</dark_gray> <color:#e32417>/module info <название></color></white>"
+    ]
+  },
+  "MODULE_ENABLED": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Модуль <color:#e32417>{module}</color> был включен!</white>"
+  },
+  "MODULE_ENABLED_FORMAT": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Используйте <dark_gray>-</dark_gray> <color:#e32417>/module enable <название></color></white>"
+  },
+  "MODULE_ENABLED_ALREADY": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Данный модуль уже включен!</white>"
+  },
+  "MODULE_DISABLED": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Модуль <color:#e32417>{module}</color> был выключен!</white>"
+  },
+  "MODULE_DISABLED_FORMAT": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Используйте <dark_gray>-</dark_gray> <color:#e32417>/module disable <название></color></white>"
+  },
+  "MODULE_DISABLED_ALREADY": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Данный модуль уже выключен!</white>"
+  },
+  "MODULE_RELOAD": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Модуль <color:#e32417>{module}</color> был перезагружен!</white>"
+  },
+  "MODULE_RELOAD_ALL": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Все доступные модули были перезагружены!</white>"
+  },
+  "MODULE_RELOAD_FORMAT": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Используйте <dark_gray>-</dark_gray> <color:#e32417>/module reload <название/*></color></white>"
+  },
+  "MODULE_LOAD": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>JAR модуль <color:#e32417>{module}</color> был найден и загружен!</white>"
+  },
+  "MODULE_LOAD_ALL": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Все модули были отправлены на загрузку!</white>"
+  },
+  "MODULE_LOAD_FORMAT": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Используйте <dark_gray>-</dark_gray> <color:#e32417>/module load <имя файла/*></color></white>"
+  },
+  "MODULE_UNLOAD": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Модуль <color:#e32417>{module}</color> был отключен!</white>"
+  },
+  "MODULE_UNLOAD_ALL": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Все модули были отправлены на выгрузку!</white>"
+  },
+  "MODULE_UNLOAD_FORMAT": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Используйте <dark_gray>-</dark_gray> <color:#e32417>/module unload <название/*></color></white>"
+  },
+  "MODULE_INFO": {
+    "ru": [
+      "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Информация о модуле <color:#e32417>{module}",
+      "<white>Автор: <color:#e32417>{author}</color></white>",
+      "<white>Зависимости: <color:#e32417>{depends}</color></white>",
+      "<white>Был запущен: <color:#e32417>{date}</color> <dark_gray>({time} назад)</dark_gray></white>",
+      "<white>Статус: <color:#e32417>{enabled}</color></white>"
+    ]
+  },
+  "MODULE_INFO_FORMAT": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Используйте <dark_gray>-</dark_gray> <color:#e32417>/module info <название></color></white>"
+  },
+  "MODULE_LIST": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Список модулей координатора <dark_gray>{size}</dark_gray>: {list}</white>"
+  }
+}

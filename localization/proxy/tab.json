@@ -1,0 +1,19 @@
+{
+  "TAB_PLAYER_HEADER": {
+    "ru": [
+      "",
+      "<b><u><color:#e32417>SWCC</color></u></b>",
+      "<gray>Сервер:</gray> <color:#e32417>{server}</color>",
+      "<gray>Общий онлайн:</gray> <color:#e32417>{global}</color>",
+      "<gray>Онлайн:</gray> <color:#e32417>{online}</color> <dark_gray>|</dark_gray> <gray>Пинг:</gray> <color:#e32417>{ping}</color>",
+      ""
+    ]
+  },
+  "TAB_PLAYER_FOOTER": {
+    "ru": [
+      "",
+      "<gray>Дискорд:</gray> <color:#e32417><b>discord.gg/swcc</b></color>",
+      "<gray>Вк:</gray> <color:#e32417><b>vk.com/swcc_anarchy</b></color>"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "PROXY_WORKING_MOTD": {
+    "ru": [
+      "                    <color:#e32417><b><st>    </st></b></color><dark_gray><b><st>[</st></b></dark_gray><gradient:#e32417:#ff4c05>SWCC</gradient><dark_gray><b><st>]</st></b></dark_gray><color:#e32417><b><st>    </st></b></color><reset>",
+      "             <gradient:#e32417:#ff4c05>☬ Новая эпоха анархии ☬</gradient>"
+    ]
+  },
+  "PROXY_WHITELIST_MOTD": {
+    "ru": [
+      "                    <color:#e32417><b><st>    </st></b></color><dark_gray><b><st>[</st></b></dark_gray><gradient:#e32417:#ff4c05>SWCC</gradient><dark_gray><b><st>]</st></b></dark_gray><color:#e32417><b><st>    </st></b></color><reset>",
+      "            <gradient:#e32417:#ff4c05>☬ Технические работы ☬</gradient>"
+    ]
+  },
+  "PROXY_ERROR_MOTD": {
+    "ru": [
+      "                    <color:#e32417><b><st>    </st></b></color><dark_gray><b><st>[</st></b></dark_gray><gradient:#e32417:#ff4c05>SWCC</gradient><dark_gray><b><st>]</st></b></dark_gray><color:#e32417><b><st>    </st></b></color><reset>",
+      "            <gradient:#e32417:#ff4c05>☬ Временные неполадки ☬</gradient>"
+    ]
+  },
+  "PROXY_WORKING_HOVER": {
+    "ru": [
+      "§fВерсия сервера: §c1.20.4",
+      "§fСтатус: §2Работает"
+    ]
+  },
+  "PROXY_WHITELIST_HOVER": {
+    "ru": [
+      "§fВерсия сервера: §c1.20.4",
+      "§fСтатус: §eТехнические работы"
+    ]
+  },
+  "PROXY_ERROR_HOVER": {
+    "ru": [
+      "§fВерсия сервера: §c1.20.4",
+      "§fСтатус: §4Не работает"
+    ]
+  },
+  "PROXY_FULL_SERVER": {
+    "ru": [
+      "<color:#e32417><st>                                               </st></color>",
+      "",
+      "§fИгровой сервер §6полностью §fзаполнен",
+      "§fПопробуйте зайти чуть попозже",
+      "",
+      "<color:#e32417><st>                                               </st></color>"
+    ]
+  },
+  "PROXY_WHITELIST_MESSAGE": {
+    "ru": [
+      "<color:#e32417><st>                                               </st></color>",
+      "",
+      "<white>Сервер временно недоступен для технических работ</white>",
+      "<white>Пожалуйста, попробуйте зайти чуть позже</white>",
+      "",
+      "<color:#e32417><st>                                               </st></color>"
+    ]
+  },
+  "PROXY_NO_SUPPORTED_MESSAGE": {
+    "ru": [
+      "<color:#e32417><st>                                               </st></color>",
+      "",
+      "<white>Ваша версия клиента не поддерживается</white>",
+      "<white>Версия сервера: <color:#e32417>1.20.4</color></white>",
+      "",
+      "<color:#e32417><st>                                               </st></color>"
+    ]
+  }
+}

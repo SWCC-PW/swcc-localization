@@ -1,0 +1,92 @@
+{
+  "BACK_PAGE": {
+    "ru": "Прошлая страница"
+  },
+  "NEXT_PAGE": {
+    "ru": "Следующая страница"
+  },
+  "OPEN_URL": {
+    "ru": "Кликните, чтобы открыть ссылку"
+  },
+  "SURVIVAL": {
+    "ru": "Выживание"
+  },
+  "CREATIVE": {
+    "ru": "Творческий"
+  },
+  "ADVENTURE": {
+    "ru": "Приключение"
+  },
+  "SPECTATOR": {
+    "ru": "Зритель"
+  },
+  "ENABLE": {
+    "ru": "включен"
+  },
+  "DISABLED": {
+    "ru": "выключен"
+  },
+  "ONE_SECOND": {
+    "ru": "секунду"
+  },
+  "TWO_SECOND": {
+    "ru": "секунды"
+  },
+  "OTHER_SECOND": {
+    "ru": "секунд"
+  },
+  "ONE_MINUTE": {
+    "ru": "минуту"
+  },
+  "TWO_MINUTE": {
+    "ru": "минуты"
+  },
+  "OTHER_MINUTE": {
+    "ru": "минут"
+  },
+  "ONE_HOUR": {
+    "ru": "час"
+  },
+  "TWO_HOUR": {
+    "ru": "часа"
+  },
+  "OTHER_HOUR": {
+    "ru": "часов"
+  },
+  "ONE_DAY": {
+    "ru": "день"
+  },
+  "TWO_DAY": {
+    "ru": "дня"
+  },
+  "OTHER_DAY": {
+    "ru": "дней"
+  },
+  "ONE_WEEK": {
+    "ru": "неделя"
+  },
+  "TWO_WEEK": {
+    "ru": "недели"
+  },
+  "OTHER_WEEK": {
+    "ru": "недель"
+  },
+  "ONE_MONTH": {
+    "ru": "месяц"
+  },
+  "TWO_MONTH": {
+    "ru": "месяца"
+  },
+  "OTHER_MONTH": {
+    "ru": "месяцев"
+  },
+  "ONE_YEAR": {
+    "ru": "год"
+  },
+  "TWO_YEAR": {
+    "ru": "года"
+  },
+  "OTHER_YEAR": {
+    "ru": "лет"
+  }
+}
