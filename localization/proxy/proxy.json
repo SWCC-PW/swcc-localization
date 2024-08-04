@@ -8,7 +8,7 @@
   "PROXY_WHITELIST_MOTD": {
     "ru": [
       "                    <color:#e32417><b><st>    </st></b></color><dark_gray><b><st>[</st></b></dark_gray><gradient:#e32417:#ff4c05>SWCC</gradient><dark_gray><b><st>]</st></b></dark_gray><color:#e32417><b><st>    </st></b></color><reset>",
-      "            <gradient:#e32417:#ff4c05>☬ Технические работы ☬</gradient>"
+      "              <gradient:#e32417:#ff4c05>☬ Технические работы ☬</gradient>"
     ]
   },
   "PROXY_ERROR_MOTD": {
@@ -55,6 +55,16 @@
       "<color:#e32417><st>                                               </st></color>"
     ]
   },
+  "PROXY_ERROR_MESSAGE": {
+    "ru": [
+      "<color:#e32417><st>                                               </st></color>",
+      "",
+      "<white>Сервер временно недоступен из-за неполадок</white>",
+      "<white>Пожалуйста, попробуйте зайти чуть позже</white>",
+      "",
+      "<color:#e32417><st>                                               </st></color>"
+    ]
+  },
   "PROXY_NO_SUPPORTED_MESSAGE": {
     "ru": [
       "<color:#e32417><st>                                               </st></color>",
@@ -64,5 +74,11 @@
       "",
       "<color:#e32417><st>                                               </st></color>"
     ]
+  },
+  "PING": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> Ваш пинг <dark_gray>-</dark_gray> <color:#e32417>{ping}</color> мс"
+  },
+  "PROXY_SERVER_NULL": {
+    "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> Вы были отправлены в хаб из-за отключение сервера: <color:#e32417>{server}</color>"
   }
 }
