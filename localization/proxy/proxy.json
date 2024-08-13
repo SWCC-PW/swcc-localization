@@ -80,5 +80,15 @@
   },
   "PROXY_SERVER_NULL": {
     "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> Вы были отправлены в хаб из-за отключение сервера: <color:#e32417>{server}</color>"
+  },
+  "PROXY_SERVER_NULL_ALL": {
+    "ru": [
+      "<color:#e32417><st>                                               </st></color>",
+      "",
+      "<white>Все игровые сервера отключены</white>",
+      "<white>Пожалуйста, попробуйте зайти чуть позже</white>",
+      "",
+      "<color:#e32417><st>                                               </st></color>"
+    ]
   }
 }

@@ -31,10 +31,10 @@
   "MODULE_DISABLED": {
     "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Модуль <color:#e32417>{module}</color> был выключен!</white>"
   },
-  "MODULE_DISABLED_FORMAT": {
+  "MODULE_DISABLE_FORMAT": {
     "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Используйте <dark_gray>-</dark_gray> <color:#e32417>/module disable <название></color></white>"
   },
-  "MODULE_DISABLED_ALREADY": {
+  "MODULE_DISABLE_ALREADY": {
     "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Данный модуль уже выключен!</white>"
   },
   "MODULE_RELOAD": {

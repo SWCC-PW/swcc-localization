@@ -1,5 +1,5 @@
 {
-  "PLAYER_NO_REGISTER": {
+  "NO_REGISTER": {
     "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Игрок не зарегистрирован на сервере!</white>"
   },
   "PLAYER_ONLINE": {
@@ -8,13 +8,13 @@
   "PLAYER_OFFLINE": {
     "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Игрок не в сети!</white>"
   },
-  "PLAYER_NO_NUMBER": {
+  "NO_NUMBER": {
     "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Указанное вами значение не является числом!</white>"
   },
-  "PLAYER_NO_TEXT": {
+  "NO_TEXT": {
     "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Указанное вами значение не является текстом!</white>"
   },
-  "PLAYER_MINIMAL_GROUP": {
+  "MINIMAL_GROUP": {
     "ru": "<dark_gray>[<color:#e32417>SWCC</color>]</dark_gray> <color:#e32417><b>></b></color> <white>Для выполнение команды требуется группа {group} и выше!</white>"
   },
   "PLAYER_COOLDOWN": {
